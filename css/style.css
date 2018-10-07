@@ -47,16 +47,28 @@ header p span {
 }
 
 .line {
-  padding: 2em;
-  background-color: #f8f8f8;
+  background-color: #ffffff;
   font-size:1.2em;
   border-bottom: 1px solid #737070;
   border-top: 1px solid #737070;
 }
 
+.line_2 {
+  font-size: 1.3em;
+  font-style: italic;
+  line-height: 0.5em;
+}
+
+.paragraph {
+  font-size:1em;
+  line-height: 0.5em;
+  font-style: italic;
+  margin-left: 50px;
+}
+
 footer {
   padding: 0 0.5em;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #737070;
 }
 
 footer span {
