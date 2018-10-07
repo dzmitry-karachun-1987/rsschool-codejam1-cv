@@ -46,7 +46,7 @@ header p span {
   font-weight: normal;
 }
 
-.line {
+.line_1 {
   background-color: #ffffff;
   font-size:1.2em;
   border-bottom: 1px solid #737070;
@@ -57,6 +57,13 @@ header p span {
   font-size: 1.3em;
   font-style: italic;
   line-height: 0.5em;
+  text-decoration: underline;
+}
+
+.line_3 {
+  background-color: #ffffff;
+  font-size: 1.2em;
+  border-bottom: 1px solid #737070;
 }
 
 .paragraph {
