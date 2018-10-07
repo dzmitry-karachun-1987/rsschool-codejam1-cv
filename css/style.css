@@ -12,7 +12,7 @@ body {
   width: 1024px;
   font-family: 'Fantasy', fantasy;
   color: #333;
-  background: url("img/background_31.png");
+  background: #ffffff;
 }
 
 header, footer, .container {
